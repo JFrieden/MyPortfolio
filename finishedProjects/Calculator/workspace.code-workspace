@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\htmlFun"
+		},
+		{
+			"path": "..\\LearningStuffs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "LearningStuffs"
+	}
+}
