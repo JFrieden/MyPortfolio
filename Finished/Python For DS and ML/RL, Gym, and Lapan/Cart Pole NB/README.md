@@ -1,0 +1,1 @@
+A DQN approach to the well-known CartPole problem, citations for any consulted code or other works can be found in the markdown sections of the `Hello World Cart.ipynb` file. The model converges to indefinite play-through of the CartPole problem, which can be observed by running the notebook
