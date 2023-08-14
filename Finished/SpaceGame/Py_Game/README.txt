@@ -1,0 +1,1 @@
+A simple 2D split screen competitive space shooter game. Run main.py to play, WASD to control the left character, with LSHIFT to fire, and IJKL and RSHIFT to control the movement and firing of the right character. Try not to get shot by your opponent, and avoid/shoot-to-destroy asteroids that drift into your battle ground!
