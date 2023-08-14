@@ -1,1 +1,0 @@
-A simple calculator webapp. Responds to key presses or screen clicks.
